@@ -8,14 +8,5 @@ class UserView(
     var status: String? = "offline",
     val initials: String?
 ) {
-    fun printMe(){
-        println("""
-            val id: $id:
-            val fullName: $fullName:
-            val nickName: $nickName:
-            var avatar: $avatar:
-            var status: $status:
-            val initials: $initials:
-        """.trimIndent())
-    }
+
 }

@@ -1,6 +1,5 @@
 package ru.skillbranch.devintensive.models
 
-import ru.skillbranch.devintensive.extensions.humanizeDiff
 import ru.skillbranch.devintensive.models.BaseMessage
 import ru.skillbranch.devintensive.models.Chat
 import ru.skillbranch.devintensive.models.User
